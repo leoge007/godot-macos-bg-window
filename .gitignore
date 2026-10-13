@@ -1,0 +1,5 @@
+*.dylib
+*.build.lock
+__pycache__/
+example/.godot/
+.DS_Store
